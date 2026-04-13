@@ -25,3 +25,9 @@ Each occurs with ~25% probability.
 qc.h(0)
 qc.h(1)
 qc.measure([0,1], [0,1])
+
+## 📸 Circuit and Output
+
+The circuit below demonstrates superposition using Hadamard gates on two qubits, producing uniform randomness.
+
+![Quantum Output](output.png)
