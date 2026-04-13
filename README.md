@@ -58,3 +58,22 @@ print(counts)
 The circuit below demonstrates superposition using Hadamard gates on two qubits, producing uniform randomness.
 
 ![Quantum Output](output.png)
+
+---
+
+## 🚀 Technologies Used
+
+- Python  
+- Qiskit  
+- IBM Quantum  
+
+---
+
+## 📌 Future Improvements
+
+- Extend to more qubits for larger random numbers  
+- Run the circuit on real quantum hardware  
+- Build a simple UI to visualize outputs  
+- Convert this into a usable random number generator for applications  
+
+---
