@@ -49,3 +49,12 @@ result = execute(qc, sim, shots=1000).result()
 
 counts = result.get_counts()
 print(counts)
+```
+
+---
+
+## 📸 Circuit and Output
+
+The circuit below demonstrates superposition using Hadamard gates on two qubits, producing uniform randomness.
+
+![Quantum Output](output.png)
